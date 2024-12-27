@@ -79,7 +79,7 @@ const ReviewList = () => {
 
   return (
     <div className="p-6 bg-gray-100 min-h-screen">
-      <h2 className="text-3xl font-bold text-gray-800 mb-6 text-center">Shop Reviews</h2>
+      <h2 className="text-3xl font-bold text-gray-800 mb-6 text-center">Reviews</h2>
 
       {/* Search Inputs */}
       <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-6">
